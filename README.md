@@ -20,5 +20,5 @@ See this [repo](https://github.com/starcraft2-ai/rl-battle/)
 | ( max ) MoveToBeacon | Same | 30.00 | 3 | 28 |
 | (mean) CollectMineralShards | 2000×4 = 8k | 23.84 | 18.5 | 133 |
 | ( max ) CollectMineralShards | Same | 39.00 | 32 | 142 |
-| (mean) FindAndDefeatZerglings | 500×8 = 4k | 4.82 | N/A | 46 |
-| ( max ) FindAndDefeatZerglings | Same | 18.00 | N/A | 49 |
+| (mean) FindAndDefeatZerglings | 500×8 = 4k | 4.82 | 5 | 46 |
+| ( max ) FindAndDefeatZerglings | Same | 18.00 | 15 | 49 |
