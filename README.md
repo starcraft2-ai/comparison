@@ -13,5 +13,5 @@ Link: [StarCraft 2 Reinforcement Learning](https://github.com/starcraft2-ai/rl-b
 ### Results
 | Metrics | Random agent | A3C | A2C |
 | --- | --- | --- | --- |
-| Mean Score | 1.94 | 3.4 | 13.69 |
+| Mean Score | 1.81 | 3.4 | 13.69 |
 | Max Score | 46 | 71 | 81 |
